@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673240127 source:c:\users\reza\documents\tugas besar std\tubes_std\main.cpp
+	<iostream>
+	"olshop.h"
+
+1673240127 c:\users\reza\documents\tugas besar std\tubes_std\olshop.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1673240127 source:c:\users\reza\documents\tugas besar std\tubes_std\olshop.cpp
+	"olshop.h"
+
